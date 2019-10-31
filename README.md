@@ -9,8 +9,6 @@
 
 ![](AI-CCR.png)
 
-![](AI-CCR.jpg)
-
 ### svg
 
 ![](AI-CCR.svg)
