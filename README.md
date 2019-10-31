@@ -1,3 +1,3 @@
 # logo
 
-![](AI-ccr.png)
+![](AI-CCR.png)
